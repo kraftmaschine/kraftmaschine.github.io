@@ -1,82 +1,43 @@
-===============================================================
-===
-https://keybase.io/marcelo
----------------------------------------------------------------
------
+I hereby claim:
 
-I hereby claim:  
-
-  * I am an admin of https://kraftmaschine.github.io  
-  * I am marcelo (https://keybase.io/marcelo) on keybase.  
-  * I have a public key with fingerprint 58BE 8785 F704 93EE 
-  6731  AA8E A552 FE51 702A 1A18
-
+   * I am an admin of https://kraftmaschine.github.io  
+   * I am marcelo (https://keybase.io/marcelo) on keybase.  
+   * I have a public key with fingerprint 58BE 8785 F704 93EE 6731  AA8E A552 FE51 702A 1A18
+  
 To do so, I am signing this object:
 
 {    
-    "body": {        
-        "key": {   
-            "eldest_kid": 
-"01014203d2a0d59fa702b27b5a0cb15cc79c64e96306326b8dc75b784c1c5c
-6e3b050a",           
-            "fingerprint": 
-"58be8785f70493ee6731aa8ea552fe51702a1a18",            
-            "host": "keybase.io",          
-            "key_id": "a552fe51702a1a18",           
-            "kid": 
-"01014203d2a0d59fa702b27b5a0cb15cc79c64e96306326b8dc75b784c1c5c
-6e3b050a",           
-            "uid": "81a8ac0e4777eb62e69df464b4975819",           
-            "username": "marcelo"       
-        },        
-        "service": {            
-            "hostname": "kraftmaschine.github.io",            
-            "protocol": "https:"       
-        },        
-        "type": "web_service_binding",       
-        "version": 1    
-        },    
-        "ctime": 1476215139,    
-        "expire_in": 157680000,    
-        "prev": 
-"c6061cfd798a8da2eb595f6264ee327dc485cc5d75be4b0b34b003e067495b
-87",    
-        "seqno": 32,   
-        "tag": "signature"
+     "body": {        
+         "key": {           
+             "eldest_kid": "01014203d2a0d59fa702b27b5a0cb15cc79c64e96306326b8dc75b784c1c5c6e3b050a",            
+             "fingerprint": "58be8785f70493ee6731aa8ea552fe51702a1a18",            
+             "host": "keybase.io",            
+             "key_id": "a552fe51702a1a18",            
+             "kid": "01014203d2a0d59fa702b27b5a0cb15cc79c64e96306326b8dc75b784c1c5c6e3b050a",            
+             "uid": "81a8ac0e4777eb62e69df464b4975819",            
+             "username": "marcelo"        
+         },       
+         "service": {            
+             "hostname": "kraftmaschine.github.io",            
+             "protocol": "https:"        
+         },       
+         "type": "web_service_binding",        
+         "version": 1    
+         },    
+         "ctime": 1476221105,    
+         "expire_in": 157680000,    
+         "prev": "60ba5b71f9625647331bfee26c7ca1ec527211b73b91ab2a8aed47948c69fffb",    
+         "seqno": 36,    
+         "tag": "signature"
 }
 
 which yields the signature:
 
------BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.0.58
-Comment: https://keybase.io/crypto
-yMNQAnicrVJrUFRlGF5IpLjMcMcxyenMkMr13M/ZNdKmLIhBB4yxNWg73znf7p5g
-L55d7rGZMyGlICQ4aiaIuIBMxjqRg0LJZZktg4AhhJAwU8aBMSQZMkeYziH718++
-H9833zvP87zP+8zbF/iUys/rXMZKujVm/Tqva90Neao9yy8LJQiwCEWIpgTJgasP
-zBWgza7LEQVEg6AYipE4Sgg4hwqUWs8xKA5wBlAcygOM4nlGzdMkVNMEShM4DViB
-ZyjAsCSP8RRPQwKgFMohcYheNBugZJVEs12WpVgAWYal9AxKqgkIaYbAOI6FHEXh
-ekhhchcO4zBWJhotNoUhmwOcDSaIFrkmf3Sr9v4D/z/7zluVYzGO5XgUkgzDQEDj
-kFYLepImAalmKBZTK0AblMycCcpoEyfxMNeClMYhcjFf5KGSqzLIE0COxOntJs7G
-G0UzTDCIdmMe+Gcyq2SxW3hLrgwy2u1Wm0YRsRdZFVYBBLonejogmgU5UZmRDyWb
-aDEjGkxG8nZRaYCRDI1jFEao4xBYaBUlqBMVBMXQLCofpQ/MlyV5GqUxXi8wapZj
-BQ6HgFJTehqXo4EEzgg8ycpZUYKcDSQBCgj5QgmI0gyppgDLIMqE+8wWREPgsk/O
-IGvaRIOZs+dJECnt6c5ao/LyU6318VZWTeX3TNC/C5h0PEjVuD+15dvRT8Ninr6U
-4j5ZFi2UjXonRTqiGm+ef/2Xuh0f3r4QECydK/s5/M6x7NDJyIyJq+2Re1K/B4Vp
-FStZtwJO1ydP1d4YXN69Y3q4dX140KbZ7B9DbiYbfCs91TMLaG55gaexd9Fn3dxP
-jrPJA865F8CriycauxzW9OK+7sSCwcuHp9P8DwREoxkRo3XH/UzM0OXxwvbQN4c2
-9tzrm8h2VS5klvi60F13vWIzLfM55vHenWPDxiPvJTxuCRzTtpz8M7PczZ9AyaNt
-H6s2XyvsLATPg4rtTjbLE2K8V79yWHXm3RZs3/lh761ZL7lm425NxpZOuWpqNFub
-vtmg2bxtBA4MF8enB2q3V923eS2feRD1UVdt2M6C6abSSxdfC23nQs923D0wcv39
-o21dkw2/Z+wNFfyOuKtqvlgKbjN1w+ea5jY6Xul1v70cY17qnG82VT4ocQnhQf2Z
-YWuWavA6Z/O20l8NzX+k3NC2XuhPnC7f/9fDgJ5HA79FR4UNzfSmBWzxUY1vOO2I
-OlVRPFOZMhd8tXZmcMfX/mxIpPbgyhtrk/SpiYTrkH9xa0RDcNWx6fhnPe6Id4qu
-f3blq37xA+fFL+vvn5qNz5Z8nUS10Bi2xfPI9IN1JMQ53/nWnY7vKh9rd2kX9J7Y
-TZ+8OOC71+3ISlm5/fnUoYcTxR27Y2oXr+iqD479DXOAygw==Nl/c
------END PGP MESSAGE-----
 
+yMNKAnicrVJtUFRVGAZNDBiJD5lRimG6QQQh3a9zPxbUwAYYqlWLICije+6eu3tl2bvs3oUYYCJmMAStySnJxYVohKZBpqGo0FFTCAwwoHJIYGJCI1iZVCiM3SHtLtm/fnb+vHPeeZ7nfZ533q83rfcL8m977s5ea2LUFv/hCx86/PL+erGrAoOKoRzTVWBFaK0gswHZ1cIi2YDpMJzACZrEKQMp4AbASwKLk5BkIRBwERJAFFleZGjEMxTOUCQDOYPIAshytEiIQGQQBXGAC1gSJskWI7JZbbJF1WQBBxHHckBicZqnEGJYihAEDgkAkBIChDZFIASC04gmxe5jaOagYEfJsqL1tE/hmr3/wP/Pvh1rchwhcIKII5plWQQZEjG8QaIZGtI8CziC9wHtyGYRipGGLhZsIjIrWFUSpjVLZRH59uoLcg9QZBMktViwiybZgpKNsmpywH+SWW2KqoiKWQOZVNVq1/lE1HKrj1WGYOE9vUIoWwzaRjVGKbLZZcWC6QgNKaqybwBBswxJEgQOkjD0mlW2oULZhwAsw+Ha881BpZokg0NBi01IPEMChmYpioASQiQjsqJAIBGQrCYDWQryhABJbQnIQLM8zYkML0kSxHwJSywKpqMYzadg1DTtstEiqA4bwqp6L7x8n59/kF/AhnW+U/MLCgz99wCXwAN382cPRxzjEpRd7trfLSuxDmczULLiN5eN1J0fTbE6h6XWZvhRSlC765T70fqeqn01D3lGovRDM64t1ZXX8Ya5k9a31sMfw5hucPRptSIr3dURAo/Yj45fO/D9N2GvmPdnHe8Stx/0LiyPelP7WqLvXM1f2Detr31z+f64XM9YUudMwpL3QHj9+JgSncxf/dPFnXPqfvvEGHMisdw972kOOdQYd8WbP5j704a9BWGpTw1EBJtCZ1s3E92uAM9i/+URZ/Y2DrT0TKU8ud86kZozowb+TBQExfZ3lDbVTNf7j06k5Tx/LHJx56ZMW8jZz2F5g2mqtdmrS270fvbS/LYT1x/MuZmmv4EL2+8Sav6l7C+cXj0A5iOTc88sH2qKCu/sUDJfXwnJ2L1xOH3w8KWFxJ2rx8tWHr44xdz+Ktq/a138+Yx+uv105PtJ7wLPWGxEW+1jZ96Oz+qsvti0GurUj49k75oIj2rlula9lbWeyT3tcadLbuec+xT+mpU5wLp7vQVLfdW3gu2RurbKrdEZU5e/7eod3PhIR/YPT3jbGq6kBQy4Y4J3LMylNZxJ14ecdEzSM+aAOTCtm3jHcW1PJl1wNpBylXczPYnzCQf7bjyb53n8u1speafeID7+cusfuVxCXQ4VOesc6n0hfPer3rr3ahoXS24WpO8YSvjFGKN+0ML/DWMqyb4==vL3m
+         
+         
 And finally, I am proving ownership of this host by posting or
 appending to this document.
-
+         
 View my publicly-auditable identity here: https://keybase.io/marcelo
-
-==================================================================
