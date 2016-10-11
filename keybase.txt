@@ -24,7 +24,8 @@ To do so, I am signing this object:
         "service": {            
             "hostname": "kraftmaschine.github.io",            
             "protocol": "https:"       
-        },        "type": "web_service_binding",       
+        },        
+        "type": "web_service_binding",       
         "version": 1    },    
         "ctime": 1476215139,    
         "expire_in": 157680000,    
