@@ -1,23 +1,31 @@
-==================================================================
+===============================================================
+===
 https://keybase.io/marcelo
---------------------------------------------------------------------
+---------------------------------------------------------------
+-----
 
 I hereby claim:  
 
   * I am an admin of https://kraftmaschine.github.io  
   * I am marcelo (https://keybase.io/marcelo) on keybase.  
-  * I have a public key with fingerprint 58BE 8785 F704 93EE 6731  AA8E A552 FE51 702A 1A18
+  * I have a public key with fingerprint 58BE 8785 F704 93EE 
+  6731  AA8E A552 FE51 702A 1A18
 
 To do so, I am signing this object:
 
 {    
     "body": {        
         "key": {   
-            "eldest_kid": "01014203d2a0d59fa702b27b5a0cb15cc79c64e96306326b8dc75b784c1c5c6e3b050a",           
-            "fingerprint": "58be8785f70493ee6731aa8ea552fe51702a1a18",            
+            "eldest_kid": 
+"01014203d2a0d59fa702b27b5a0cb15cc79c64e96306326b8dc75b784c1c5c
+6e3b050a",           
+            "fingerprint": 
+"58be8785f70493ee6731aa8ea552fe51702a1a18",            
             "host": "keybase.io",          
             "key_id": "a552fe51702a1a18",           
-            "kid": "01014203d2a0d59fa702b27b5a0cb15cc79c64e96306326b8dc75b784c1c5c6e3b050a",           
+            "kid": 
+"01014203d2a0d59fa702b27b5a0cb15cc79c64e96306326b8dc75b784c1c5c
+6e3b050a",           
             "uid": "81a8ac0e4777eb62e69df464b4975819",           
             "username": "marcelo"       
         },        
@@ -26,10 +34,13 @@ To do so, I am signing this object:
             "protocol": "https:"       
         },        
         "type": "web_service_binding",       
-        "version": 1    },    
+        "version": 1    
+        },    
         "ctime": 1476215139,    
         "expire_in": 157680000,    
-        "prev": "c6061cfd798a8da2eb595f6264ee327dc485cc5d75be4b0b34b003e067495b87",    
+        "prev": 
+"c6061cfd798a8da2eb595f6264ee327dc485cc5d75be4b0b34b003e067495b
+87",    
         "seqno": 32,   
         "tag": "signature"
 }
