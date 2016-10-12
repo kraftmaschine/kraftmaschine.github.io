@@ -1,0 +1,65 @@
+I hereby claim:
+
+  * I am an admin of https://kraftmaschine.github.io
+  * I am marcelo (https://keybase.io/marcelo) on keybase.
+  * I have a public key with fingerprint E72E E959 35CC D736 EE17  073F 3A93 240D 5328 EB69
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101b20c76f6a32cb2c92624b9781ace0d3c464d6e6abda89fca78faff17ca5f95d00a",
+            "fingerprint": "e72ee95935ccd736ee17073f3a93240d5328eb69",
+            "host": "keybase.io",
+            "key_id": "3a93240d5328eb69",
+            "kid": "0101b20c76f6a32cb2c92624b9781ace0d3c464d6e6abda89fca78faff17ca5f95d00a",
+            "uid": "81a8ac0e4777eb62e69df464b4975819",
+            "username": "marcelo"
+        },
+        "service": {
+            "hostname": "kraftmaschine.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1476309063,
+    "expire_in": 157680000,
+    "prev": "a530a7fd05401b5f104261f9c2b4254be7149803fd9e51d094e0b4ed579a0df2",
+    "seqno": 49,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+yMNNAnicrVJ7UFRlFF98NMKIEdJElApXYBh21fu+exdinORh5gKJDYgWfffe7+7e
+2WXvui9imCVfDBqWE0w8kjFDxJTBtKCcEUM3BXrQiuKsVoSEYIqMOCKWgHUv2X/9
+2ffPme/M73XOnPOhczUhQYaq2NCchFEp6PtzDW5N7uMTGSUIJwvFiKEEscDZAq0C
+dLoKLJKAGBAUQzEOR3mGFmlA4DyH8yxO4yTHMnoM8BAVCJ6kSYGGNOAEoGdFHjB6
+EYgixvCAEllKQFGA6BBRspmgw+6QbC5FFjI4hCzFEhTPCwxBQ4gxKEOIBGAJnEQF
+isD1kKNZhWiWnSpDCccBJ1wpyUpP+RTMxvsP/P+c2z0rp3D0gEchyTCM4oNDmhVE
+hc+RLEPpMdXX7YQOGyiECroQOHholRGvDlGaHomH6l7VQZ4ALA4gugqBkzdLNrjS
+JLnMbu6fyewO2SXzslUBmV0uu9OgiriK7SqrCHIFT/QKOMkmKBtVGB7ocEqyDTFg
+CpJ3SaoBRjI0gbIoTegQ+LZdcsACSUVQDK1Hlaf6QI8iCSgCBYwooBSp7IsSMZTE
+aUxkeZwjcYrkIIORrB4lRIGFFCagLAlRjoQCxbAAFUQcUSfcapMRA8kqOYFJ0XRK
+JhtwuR0Q8frObZmnCQrRPDV/jnpqmpDgsH8PcCwjTHOwdtvttYs6vBl9DycOnuy9
+0J/ceeEeUV6Ts2bjQ216/kTkVXOwwV+TW965vPvXuueto1+e7tI6y1Jfp+sfzXxx
+sdbc4duz6lRX9PWyWl2XTn/C1tr8zNiOX9Znaa8tXuDeLdXbhow/lbReejFrLEWz
+YN1AZkLi+l7aOl5tkmKCrzY3ZOySru8dEz+rPDsQuXRq8YZp/7HCqPyg9tJTof6h
+iMrIV+e27/xhnTscuxs/8FHt5db9/uJAVlq51/KszB/vy7/dXVe6QdsUXQG2z8SV
+fuPZfPT3uvtld5qGI97YmXd/sjVG2H9346Z3YKS/zYgkbjmz45PQSe1wz7KauLTw
+Ec3hwdX7KsbfE6hXkuvnXYxt6nst8FVD8rWZPfHNUXlxS15oB0YQGPRVy5NFq4A3
+kIPNr773XeKRvq1rV4POG8ktj/rXuKPMx1qsw/SRG6mJ7syR8Zeee3/32ZNDSSa3
+fdOP09FoUWZidlbJb77kvJ6YNzGwfCKwq7hem9D21wNfyuYpy/G3vGlVV6JKvj3q
+mYjdd2Zpi5C57eM5Nw+9fEX39cKBJdmLjDdHqkIOVBgftJ3+49PqDyORsO4UQ+PE
++YVPj945HOGpLbz8c9cUmT71uLkx99ag0T61bEVXT2ZIY7ovaXv/CktlIP7SgWxT
+QrzWmP35u4fCm/p6b33g703ST6emW/8s7uj/G5NWzWg=
+=dxl0
+
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/marcelo
+
